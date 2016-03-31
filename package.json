@@ -1,7 +1,7 @@
 {
   "name": "react-example-es2015-webpack",
   "version": "1.0.0",
-  "description": "This is a demo which rewrite <a href=\"https://github.com/reactjs/react-tutorial\">react-tutorial</a> with es2015 and webpack.",
+  "description": "This is a react example which use es2015 and webpack to rewrite [React comment box example](https://github.com/reactjs/react-tutorial) from [the React tutorial](http://facebook.github.io/react/docs/tutorial.html).",
   "main": "index.js",
   "scripts": {
     "server":"webpack && echo \"Start comments server.....\" && node server.js",
