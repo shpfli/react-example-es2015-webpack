@@ -4,7 +4,7 @@
   "description": "This is a demo which rewrite <a href=\"https://github.com/reactjs/react-tutorial\">react-tutorial</a> with es2015 and webpack.",
   "main": "index.js",
   "scripts": {
-    "server":"echo \"Start comments server.....\" && node server.js",
+    "server":"webpack && echo \"Start comments server.....\" && node server.js",
     "start": "webpack-dev-server --devtool eval-source --progress --colors --hot --inline --history-api-fallback",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
