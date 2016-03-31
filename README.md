@@ -1,2 +1,2 @@
 # react-tutorial-es2015-webpack
-Rewrite &lt;a href="https://github.com/reactjs/react-tutorial">react-tutorial&lt;/a> with es2015 and webpack
+This is a demo which rewrite <a href="https://github.com/reactjs/react-tutorial">react-tutorial</a> with es2015 and webpack.
