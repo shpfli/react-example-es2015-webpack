@@ -1,5 +1,5 @@
 {
-  "name": "react-tutorial-es2015-webpack",
+  "name": "react-example-es2015-webpack",
   "version": "1.0.0",
   "description": "This is a demo which rewrite <a href=\"https://github.com/reactjs/react-tutorial\">react-tutorial</a> with es2015 and webpack.",
   "main": "index.js",
