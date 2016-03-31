@@ -1,0 +1,20 @@
+{
+  "name": "react-tutorial-es2015-webpack",
+  "version": "1.0.0",
+  "description": "This is a demo which rewrite <a href=\"https://github.com/reactjs/react-tutorial\">react-tutorial</a> with es2015 and webpack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shpfli/react-tutorial-es2015-webpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shpfli/react-tutorial-es2015-webpack/issues"
+  },
+  "homepage": "https://github.com/shpfli/react-tutorial-es2015-webpack#readme"
+}
